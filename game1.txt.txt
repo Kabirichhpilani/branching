@@ -1,1 +1,2 @@
 hey buddy we are here
+this command is used to find diff between the diff file and the present changes which u have made in the projectory
